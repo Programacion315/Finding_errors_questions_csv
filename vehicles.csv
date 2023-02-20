@@ -1,0 +1,15 @@
+Pregunta,Tipo,Respuesta esperada,Crítica,Excluir Aleatorio
+Have you been trained to use this vehicle?,Yes/No,Y,Y,N
+Do you ñunderstand@ that you must report any faults?,Yes/No,Y,Y,N
+Any damage to tiñres or vehiclfdsafdsafdagfdsafdsafdsfdsgdsgsagsfdsdgsdgase? ,Yes/No,N,N,N
+Are there any visibdle oil leaks?,Yes/No,N,Y,N
+Are lifting mast and chains ok?,Yes/No,Y,Y,N
+Are fork tines worn or damaged?,Yes/No,N,Y,N
+Forward and Reverñse controls are operational?,Yes/No,Y,Y,N
+Is the seat and seat belt in good working condition?,Yes/No,Y,N,N
+Horn/lights/backup alarms operational?,Yes/No,Y,N,N
+Is steering operating normally?,Yes/No,Y,N,N
+Does the brakes/park brake operate ok?,Yes/No,Y,Y,N
+Is the truck safe to operate?,Yes/No,Y,Y,N
+Is the pallet dog in place?,Yes/No,Y,Y,N
+Have you been trained to use this vehicle/Ha recibido formacion para utilizar el vehiculo?,Yes/No,Y,N,N
